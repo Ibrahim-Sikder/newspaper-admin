@@ -1,0 +1,30 @@
+
+.responsive-sheet {
+    max-width: 90vw; 
+    
+  }
+  
+  @media (min-width: 640px) {
+    .responsive-sheet {
+      max-width: 400px;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .responsive-sheet {
+      max-width: 800px;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .responsive-sheet {
+      max-width: 800px;
+    }
+  }
+  
+  @media (min-width: 1280px) {
+    .responsive-sheet {
+      max-width: 800px;
+    }
+  }
+  
